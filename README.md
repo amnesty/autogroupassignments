@@ -19,7 +19,15 @@ Auto Group Assignments allows you to specify a default group for each contact cr
 
 Lets say that you have, for instance, three groups in CiviCRM: administrators, teachers and students. The administrators, normally, use CiviCRM to create teacher records. The teachers use to create student records. With this extension, you'll be able to assign the "Default Group for New Contacts" when you create, or modify a group.
 
+![Group Form][group-form]
+
+[group-form]: https://github.com/amnesty/autogroupassignments/blob/master/img/group-form-screenshot.png "Group Edition Form"
+
 So, for Administrators, you'll choose Teachers and for Teachers you'll choose Students. From this time on, when a administrator creates a contact, by default, it will be assigned, by default, to he teachers group.
+
+![New Contact][new-contact]
+
+[new-contact]: https://github.com/amnesty/autogroupassignments/blob/master/img/new-contact-screenshot.png "New Contact Form"
 
 What else can it do?
 --------------------
