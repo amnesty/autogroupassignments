@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<extension key="org.amnesty.es.autogroupassignments" type="module">
+  <file>autogroupassignments</file>
+  <name>Auto Group Assignments</name>
+  <description>
+    Auto Group Assignments allows you to specify a default group for each contact created
+    (by members of another specified group).
+    
+    Lets say that you have, for instance, three groups in CiviCRM: administrators,
+    teachers and students. The administrators, normally, use CiviCRM to create teacher
+    records. The teachers use to create student records.
+    
+    With this extension, you'll be able to assign the "Default Group for New Contacts"
+    when you create, or modify a group. So, for Administrators, you'll choose Teachers
+    and for Teachers you'll choose Students.
+    
+    From this time on, when a administrator creates a contact, by default, it will be
+    assigned, by default, to he teachers group.
+  </description>
+  <license>GPL v3</license>
+  <maintainer>
+    <author>Carlos (Capo)te - Amnesty International (Spain)</author>
+    <email>ccapote@es.amnesty.org</email>
+  </maintainer>
+  <releaseDate>2013-10-11</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.5.alpha1</ver>
+  </compatibility>
+  <comments>This module was developed during the Dalesbridge Sprint Code in 2013.</comments>
+  <civix>
+    <namespace>CRM/AutoGroupAssignments</namespace>
+  </civix>
+</extension>
