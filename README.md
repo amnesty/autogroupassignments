@@ -6,7 +6,7 @@ Introduction
 
 This CiviCRM extension was written during the Dalesbridge Sprint Code, after the CiviCON London 2013.
 
-This extension wan't, at the beggining, intended to be published. It was created only with pedagogical purposes. But, as long as it works and can be useful to others -even if it's only as an "inspiration" to create other nice CiviCRM extensions-, we decided to give it a change.
+This extension wan't, at the beggining, intended to be published. It was created only with pedagogical purposes. But, as long as it works and can be useful to others -even if it's only as an "inspiration" to create other nice CiviCRM extensions-, we decided to give it a chance.
 
 Please, issue any bug or suggestion: https://github.com/amnesty/autogroupassignments/issues
 
